@@ -1,0 +1,76 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Collection",
+            "request": "launch",
+            "mainClass": "Collection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FilterString",
+            "request": "launch",
+            "mainClass": "FilterString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapNumber",
+            "request": "launch",
+            "mainClass": "MapNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FilterNumber",
+            "request": "launch",
+            "mainClass": "FilterNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reduce",
+            "request": "launch",
+            "mainClass": "Reduce"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapString",
+            "request": "launch",
+            "mainClass": "MapString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sort",
+            "request": "launch",
+            "mainClass": "Sort"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JFMapString",
+            "request": "launch",
+            "mainClass": "JFMapString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JFMapNumber",
+            "request": "launch",
+            "mainClass": "JFMapNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JFFilterString",
+            "request": "launch",
+            "mainClass": "JFFilterString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JFFilterNumber",
+            "request": "launch",
+            "mainClass": "JFFilterNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JFFilter",
+            "request": "launch",
+            "mainClass": "JFFilter"
+        }
+    ]
+}
